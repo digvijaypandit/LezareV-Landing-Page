@@ -1,3 +1,9 @@
+## 📺 Live Demo
+
+👉 [View Live Site](https://digvijaypandit.github.io/LezareV-Landing-Page/)
+
+
+
 LezareV - Landing Page
 LezareV is a high-performance, smooth-scrolling, interactive landing page created with HTML, CSS, JavaScript, and enhanced with libraries like GSAP, Locomotive Scroll, and ScrollTrigger. This project aims to provide a visually appealing and responsive user experience with advanced animations and scrolling effects.
 
